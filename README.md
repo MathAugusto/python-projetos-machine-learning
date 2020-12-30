@@ -1,2 +1,2 @@
 # machine-learning-projetos
-Projetos de classificação criados explorando técnicas de Machine Learning
+Modelos de classificação criados explorando técnicas de Machine Learning
